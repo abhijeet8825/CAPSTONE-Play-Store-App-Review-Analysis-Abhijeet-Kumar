@@ -96,23 +96,6 @@ Ensure you have the following installed:
 - Google colab Notebook
 - Required libraries: pandas, numpy, matplotlib, seaborn
 
-### Steps to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Playstore-App-Review-Analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Playstore-App-Review-Analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Google colab Notebook:
-   ```bash
-   jupyter notebook Playstore_App_Review_Analysis.ipynb
-   ```
 
 ## Future Scope
 - Apply machine learning models for rating prediction.
